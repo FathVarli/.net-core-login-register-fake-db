@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ELIF.PEKINCE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ELIF.PEKINCE\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
